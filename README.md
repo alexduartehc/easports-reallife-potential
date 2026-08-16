@@ -1,6 +1,6 @@
 # EA FC Ratings vs. Real-Life Performance
  
-Do EA Sports FC (FIFA) player ratings actually track how players perform on the pitch? This project merges EA Sports FC 23 player attribute data with real 2022–23 season statistics for Europe's top five leagues (Premier League, La Liga, Bundesliga, Serie A, Ligue 1), then analyzes where a player's in-game **potential** rating lines up — or doesn't — with their real-world output.
+Do EA Sports FC (FIFA) player ratings actually track how players perform on the pitch? This project merges EA Sports FC 23 player attribute data with real 2022–23 season statistics for Europe's top five leagues (Premier League, La Liga, Bundesliga, Serie A, Ligue 1), then analyzes where a player's in-game **potential** rating lines up (or not) with their real-world output.
  
 ## What's in the notebook
  

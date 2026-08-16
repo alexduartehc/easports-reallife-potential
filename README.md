@@ -6,10 +6,10 @@ Do EA Sports FC (FIFA) player ratings actually track how players perform on the 
  
 `RealLife-Potential.ipynb` walks through the full pipeline:
  
-- **Data cleaning & preprocessing** — dropping irrelevant columns, handling missing values, fixing data types, de-duplicating, and standardizing club/stat naming
-- **Merging** — matching players across the two datasets by name using fuzzy string matching (`rapidfuzz`), since names aren't formatted consistently between sources
-- **Feature engineering** — performance metrics, potential-vs-performance differentials, position-specific metrics, and interaction/ratio features
-- **Analysis** — descriptive stats, goals by position, segmenting players by EA potential tier, identifying over- and under-performers (overall and by position), age-group trends, positional analysis, league comparisons, a correlation matrix, contract-year effects on performance, and an interactive Plotly visualization
+- **Data cleaning & preprocessing**: dropping irrelevant columns, handling missing values, fixing data types, de-duplicating, and standardizing club/stat naming
+- **Merging**: matching players across the two datasets by name using fuzzy string matching (`rapidfuzz`), since names aren't formatted consistently between sources
+- **Feature engineering**: performance metrics, potential-vs-performance differentials, position-specific metrics, and interaction/ratio features
+- **Analysis**: descriptive stats, goals by position, segmenting players by EA potential tier, identifying over- and under-performers (overall and by position), age-group trends, positional analysis, league comparisons, a correlation matrix, contract-year effects on performance, and an interactive Plotly visualization
 - 
 ## Data
  

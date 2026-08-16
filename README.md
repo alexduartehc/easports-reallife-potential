@@ -52,7 +52,7 @@ jupyter notebook RealLife-Potential.ipynb
  
 ```
 .
-├── RealLife-Potential.ipynb   # full analysis notebook
+├── README.md
 ├── requirements.txt
-└── README.md
+└── RealLife-Potential.ipynb   # full analysis notebook
 ```

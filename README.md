@@ -29,9 +29,9 @@ The notebook expects two source files:
 
 ## Limitations and Considerations
 
-The analysis was based on a single season’s data (2022/2023), which may limit the generalizability of findings over time. Additionally, the sample size of players is constrained to the top five European leagues, potentially excluding emerging talents from less prominent leagues that might offer further insights into player potential and performance. 
+ - The analysis was based on a single season’s data (2022/2023), which may limit the generalizability of findings over time. Additionally, the sample size of players is constrained to the top five European leagues, potentially excluding emerging talents from less prominent leagues that might offer further insights into player potential and performance. 
 
-Real-life player performance is highly dynamic and can fluctuate due to various factors such as team strategy changes, coaching adjustments, or individual form. Additionally, injuries or off-field issues can cause inconsistencies that are not reflected in a single-season analysis.
+ - Real-life player performance is highly dynamic and can fluctuate due to various factors such as team strategy changes, coaching adjustments, or individual form. Additionally, injuries or off-field issues can cause inconsistencies that are not reflected in a single-season analysis.
  
 ## Tech stack
  

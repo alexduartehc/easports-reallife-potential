@@ -15,8 +15,8 @@ Do EA Sports FC (FIFA) player ratings actually track how players perform on the 
  
 The notebook expects two source files:
  
-- **EA Sports FC player database** — attribute and potential ratings export (FIFA 23)
-- **2022–23 season stats** — advanced on-pitch statistics (shooting, passing, defense, goalkeeping, etc.) for the top five European leagues
+- **EA Sports FC player database**: attribute and potential ratings export (FIFA 23)
+- **2022–23 season stats**: advanced on-pitch statistics (shooting, passing, defense, goalkeeping, etc.) for the top five European leagues
 
 ## Conclusions
 

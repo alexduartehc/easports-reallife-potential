@@ -13,7 +13,7 @@ Do EA Sports FC (FIFA) player ratings actually track how players perform on the 
 - 
 ## Data
  
-The notebook expects two source files:
+The notebook expects two source files (not included in this repo due to size and licensing):
  
 - **EA Sports FC player database**: attribute and potential ratings export (FIFA 23)
 - **2022–23 season stats**: advanced on-pitch statistics (shooting, passing, defense, goalkeeping, etc.) for the top five European leagues
@@ -54,6 +54,5 @@ jupyter notebook RealLife-Potential.ipynb
 .
 ├── RealLife-Potential.ipynb   # full analysis notebook
 ├── requirements.txt
-├── data folder
 └── README.md
 ```
